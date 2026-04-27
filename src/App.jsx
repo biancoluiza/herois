@@ -95,7 +95,7 @@ function App() {
     flexWrap: "wrap",
     justifyContent: "center",
     fontFamily: "sans-serif",
-    backgroundColor: "#9c9c9c",
+    backgroundColor: "#ececec",
   };
 
   const filtrosStyle = {
